@@ -1,6 +1,7 @@
 VORTEX-AI-CultureWeave README
 Overview
 VORTEX-AI-CultureWeave is an innovative generative AI app for preserving and revitalizing indigenous knowledge through immersive storytelling. It generates personalized narratives, illustrations, and AR experiences to combat cultural erosion, fostering identity and community bonds. This project pioneers generative cultural tools—unmatched in its interactive scope.
+
 Problem It Solves
 
 Local Level (e.g., Kenya): Risks cultural loss for 42+ ethnic groups, disconnecting 70% of youth, leading to identity crises, $500 million tourism losses, weakened bonds, educational gaps, and reduced resilience.
